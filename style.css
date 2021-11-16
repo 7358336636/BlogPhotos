@@ -1,0 +1,30 @@
+body{
+    text-align:center;
+    font-family:verdana;
+    background-color:black;
+    font-size: large;
+  }
+  
+  img {
+    width: 5px;
+    height: 5px;
+  }
+  
+  .image-section {
+    display: flex;
+    justify-content:center;
+  }
+  
+  .section-style {
+     margin-left: 10px;
+    margin-right:10px;
+    background-color: white;
+  }
+  
+  div {
+    margin-top: 5px;
+  }
+  
+  h1 {
+    color: white;
+  }
